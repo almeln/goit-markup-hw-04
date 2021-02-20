@@ -1,0 +1,15 @@
+:root {
+--dark-text: #212121;
+--colorful-text: #2196F3;
+--dark-logo: #000000;
+--light-text: #FFFFFF;
+--main-text: #757575;
+--light-text-op60: rgba(255, 255, 255, 0.6);
+--back-dark: #2F303A;
+--back-light: #F5F4FA;
+--back-white: #FFFFFF;
+--social-link-col: #AFB1B8;
+--social-back: rgba(255, 255, 255, 0.1);
+
+--card-set-gap: 30px;
+}
